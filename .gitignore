@@ -130,5 +130,15 @@ dmypy.json
 
 .vscode/
 
+# notebook
 template.ipynb
-code-ssql2/
+v0.*ipynb
+
+# sql data
+code-ssql2/*
+!.gitkeep
+
+# src
+dat_to_csv.py
+
+not_used/
