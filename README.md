@@ -39,5 +39,5 @@ SQLをインタラクティブに実行するためにjupyter notebook上でsqla
 - chapter8: テーブルの結合
 - chapter9: トランザクション
 - chapter10: テーブルの作成
-- chapter11
-- chapter12
+- chapter11: 支援機能
+- chapter12: テーブルの設計
