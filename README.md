@@ -27,3 +27,17 @@ poetry install
 ## コード
 [SQL](./SQL)内に各チャプターの練習問題の実装を置いています。
 SQLをインタラクティブに実行するためにjupyter notebook上でsqlalchemyを利用してSQLを実行しています。
+
+## 実装
+- chapter1: introduction
+- chapter2: select, update, delete, insert
+- chapter3: 条件式による絞り込み
+- chapter4: selectによる検索結果の加工
+- chapter5: 関数
+- chapter6: 集計、グループ化
+- chapter7: 副問合せ
+- chapter8: テーブルの結合
+- chapter9: トランザクション
+- chapter10: テーブルの作成
+- chapter11
+- chapter12
